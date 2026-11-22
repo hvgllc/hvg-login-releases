@@ -7,5 +7,3 @@ Bộ cài và bản cập nhật của HVG Login, ứng dụng quản lý hồ s
 - Cần tài khoản do quản trị viên cấp để sử dụng.
 
 Repo này chỉ chứa bản phát hành, không chứa mã nguồn.
-
-HVG Login dựa trên [Fury](https://github.com/furyteamtop/fury-antidetect-browser), phần mềm tự do theo giấy phép GNU AGPL-3.0-or-later. Mã nguồn tương ứng của từng bản phát hành được cung cấp theo yêu cầu: https://havigroup.llc
